@@ -25,6 +25,6 @@ This is a Java library providing BigDecimal datatype implementation for [expr4j]
 ### Gradle
 ```gradle
 dependencies {
-    implementation 'in.pratanumandal:expr4j-double:1.0'
+    implementation 'in.pratanumandal:expr4j-bigdecimal:1.0'
 }
 ```
