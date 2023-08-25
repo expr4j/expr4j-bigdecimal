@@ -6,11 +6,6 @@
 # BigDecimal Implementation for Expr4j
 This is a Java library providing BigDecimal datatype implementation for [Expr4j](https://github.com/expr4j/expr4j) library.
 
-> **Note**<br/>
-> Version 1.x of Expr4j is a complete rewrite of the library. The new API is incompatible with the 0.0.x versions.
-
-<br/>
-
 ## Dependency Management
 
 ### Maven
