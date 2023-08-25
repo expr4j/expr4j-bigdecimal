@@ -11,7 +11,7 @@
 
     <name>Expr4j BigDecimal</name>
     <url>https://github.com/expr4j/expr4j-bigdecimal</url>
-    <description>BigDecimal implementation for expr4j</description>
+    <description>BigDecimal implementation for Expr4j</description>
 
     <developers>
         <developer>
